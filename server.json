@@ -1,0 +1,20 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2022-11-07T21:44:57.705Z"
+    },
+    {
+      "id": 2,
+      "description": "Alugel",
+      "type": "outcome",
+      "category": "Casa",
+      "price": 2000,
+      "createdAt": "2022-11-07T21:50:57.705Z"
+    }
+  ]
+}
