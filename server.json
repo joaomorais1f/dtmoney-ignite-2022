@@ -15,6 +15,14 @@
       "category": "Casa",
       "price": 2000,
       "createdAt": "2022-11-07T21:50:57.705Z"
+    },
+    {
+      "id": 3,
+      "description": "Ignite Rocketseat",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1780,
+      "createdAt": "2022-11-07T21:10:57.705Z"
     }
   ]
 }
